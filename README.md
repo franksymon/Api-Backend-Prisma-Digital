@@ -6,7 +6,7 @@ https://prisma-digital-bills.herokuapp.com/api/v1
 
 Api - Prisma Digital - User Bills
 
-Tecnologias Utilizadas: - Node.js - Express.js - PosgreSQL - ORM Sequelize - Deploy - Herokogit
+Tecnologias Utilizadas: - Node.js - Express.js - PosgreSQL - ORM Sequelize 
 
 Arquitectura --> MVC
 
